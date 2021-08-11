@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="105"
+   height="47"
+   viewBox="0 0 105 47"
+   version="1.1"
+   id="svg3733"
+   sodipodi:docname="logo-dark.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata3739">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3737" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview3735"
+     showgrid="false"
+     inkscape:zoom="11.211783"
+     inkscape:cx="33.605785"
+     inkscape:cy="21.521924"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3731" />
+  <g
+     id="g3731"
+     style="fill:none;fill-rule:evenodd"
+     transform="translate(0,22)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="2.1406052"
+       y="-7.5550351"
+       id="text3747"><tspan
+         sodipodi:role="line"
+         id="tspan3745"
+         x="2.1406052"
+         y="-7.5550351"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;line-height:0.25;font-family:'Verdana Pro';-inkscape-font-specification:'Verdana Pro Bold'">киевская</tspan><tspan
+         sodipodi:role="line"
+         x="2.1406052"
+         y="5.9080119"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;line-height:0.25;font-family:'Verdana Pro';-inkscape-font-specification:'Verdana Pro Bold'"
+         id="tspan3749">школа</tspan><tspan
+         sodipodi:role="line"
+         x="2.1406052"
+         y="19.371059"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;line-height:0.25;font-family:'Verdana Pro';-inkscape-font-specification:'Verdana Pro Bold'"
+         id="tspan3751">вокала</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="1.5767045"
+     y="33.440342"
+     id="text3743"><tspan
+       sodipodi:role="line"
+       id="tspan3741"
+       x="1.5767045"
+       y="69.933556" /></text>
+</svg>
